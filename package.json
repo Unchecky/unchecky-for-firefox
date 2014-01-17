@@ -1,0 +1,12 @@
+{
+	"name": "unchecky-for-firefox",
+	"fullName": "Unchecky for Firefox",
+	"id": "jid1-cVNZVkPAMckOEQ",
+	"description": "Unchecks offers of potentially unwanted programs on the web",
+	"author": "RaMMicHaeL",
+	"license": "MPL 2.0",
+	"version": "0.1",
+	"homepage": "http://unchecky.com/",
+	"icon": "icon.png", 
+	"icon64": "icon64.png"
+}
